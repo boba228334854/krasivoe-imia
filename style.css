@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(248, 229, 211); 
+}
+header{
+    background-color:rgb(249, 202, 158) ;
+    width:2000px;
+    padding:20px;
+    border-radius:10px;
+    margin:15px;
+}
+.link-header{
+   text-decoration:none;
+    color:rgb(108, 82, 55);
+    font-size:20px;
+    background-color:rgb(235, 181, 130);
+    padding:10px;
+     border-radius:20px;
+} 
+.link-header:hover{
+background-color:rgb(108, 82, 55); 
+color:rgb(235, 181, 130);
+}
+h1{
+    font-size:50px;
+    text-align:center;
+    color:rgb(187, 142, 96);
+}
+li{
+     font-size:30px; 
+color:rgb(187, 142, 96);
+}
+.link-nav{
+    text-decoration: none;
+    font-size:20px;
+    color: rgb(187, 142, 96);
+    border:3px solid rgb(187, 142, 96);
+    padding:5px;
+    border-radius:7px;
+    margin:15px;
+}
+
+p{
+font-size:30px ;
+color: rgb(187, 142, 96);
+}
